@@ -1,4 +1,4 @@
-package com.cell.course.entities.exceptions;
+package com.cell.course.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
